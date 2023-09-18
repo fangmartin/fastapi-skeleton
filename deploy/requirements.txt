@@ -1,3 +1,12 @@
 redis==5.0.0
 fastapi==0.103.1
 pydantic-settings==2.0.3
+loguru==0.7.1
+ruff==0.0.287
+apscheduler==3.10.4
+slowapi==0.1.8
+fastapi-cache2==0.2.1
+peewee==3.16.3
+asyncpg==0.28.0
+pytest==7.4.2
+pytest-cov==4.1.0
