@@ -1,3 +1,10 @@
 redis==5.0.0
 fastapi==0.103.1
 pydantic-settings==2.0.3
+loguru==0.7.1
+ruff==0.0.287
+apscheduler==3.10.4
+slowapi==0.1.8
+fastapi-cache2==0.2.1
+sqlalchemy==2.0.20
+asyncpg==0.28.0
